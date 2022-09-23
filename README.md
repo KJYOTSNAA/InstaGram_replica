@@ -1,3 +1,3 @@
 # InstaGram_replica
 
-<img src="pic.png"
+<img src="pic.png">
